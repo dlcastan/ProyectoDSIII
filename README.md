@@ -29,7 +29,7 @@ El an√°lisis de los comentarios de los usuarios permite identificar con precisi√
 
 https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews/data
 
-#**Lectura de datos**
+#Lectura de datos
 
 # Campos del archivo Top-100_Trending_Books.csv
 
