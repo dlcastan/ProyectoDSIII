@@ -1,7 +1,10 @@
-**Curso:** Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos
-Comisión 61625
-Alumno: Diego Lopez Castan
+# ProyectoDSIII
 
+Data Science III: Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos
+
+Comisión: 61625
+
+Alumno: Diego Lopez Castan
 
 # **Presentación del proyecto**
 
