@@ -29,9 +29,9 @@ El análisis de los comentarios de los usuarios permite identificar con precisi�
 
 https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews/data
 
-#Lectura de datos
+# Lectura de datos
 
-# Campos del archivo Top-100_Trending_Books.csv
+## Campos del archivo Top-100_Trending_Books.csv
 
 **Book Rank: :** Indica la posición del libro entre los 100 más vendidos de Amazon.
 
@@ -70,7 +70,7 @@ https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews/d
 
 
 
-# Campos del archivo customer_reviews.csv
+## Campos del archivo customer_reviews.csv
 
 
 **Sno:** Un número secuencial único que representa el índice de cada registro en el conjunto de datos. Es útil para identificar cada fila de manera individual.
