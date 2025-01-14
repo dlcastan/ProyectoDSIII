@@ -128,6 +128,12 @@ Modifico el dataset utilizando un modelo de Emotion Analysis con HugginFace.
 Creo un recomendador basado en contenido textual. Identifico la similitud de los libros basándome en sus descripciones o características textuales.
 
 
+## **Anexos IV**
+
+
+Creo una aplicación en Hugginface para calsificar los comentarios. Al ingresasr un comentario voy a predecir si es mismo es negativo o positivo. Se puede acceder a la APP desde https://huggingface.co/spaces/Dlcastan/ProyectoDSIII
+
+
 ## **Archivos**
 
 
